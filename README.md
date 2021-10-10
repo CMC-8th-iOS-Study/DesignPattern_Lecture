@@ -1,7 +1,11 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/70688424/136654122-984ae522-d600-42b0-9ce6-52ccc23c2a51.jpg" width="50%">
+<img src="https://user-images.githubusercontent.com/70688424/136654122-984ae522-d600-42b0-9ce6-52ccc23c2a51.jpg" width="70%">
   </div>
   
+<br>
+
+<h3 align="center">🍎CMC 8기 iOS개발자들의 디자인패턴 공부방🍎</h3>
+
 <br>
 
 <div align="center">
