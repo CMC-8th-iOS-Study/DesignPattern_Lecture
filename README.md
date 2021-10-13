@@ -41,8 +41,14 @@
       <th>자료</th>
       <th>담당</th>
       </tr>
+    <tr align=center>
+      <td><b>1주차</b></td>
+      <td>디자인패턴 개요</td>
+      <td>개인</td>
+      <td>전원</td>
+      </tr>
     <tr>
-      <td rowspan="2"><b>1주차</b></td>
+      <td rowspan="2"><b>2주차</b></td>
       <td>Singleton Pattern</td>
       <td>준비중</td>
       <td align=center>아일린<br>에스<br>플로라</td>
