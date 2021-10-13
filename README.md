@@ -55,7 +55,7 @@
       </tr>
     <tr>
       <td>Observer Pattern</td>
-      <td>준비중</td>
+      <td><a href="https://github.com/CMC-8th-iOS-Study/DesignPattern_Lecture/blob/main/Week2/Observer.md">이동✈</</td>
       <td align=center>무무<br>아요쓰</td>
       </tr>
     </table>
