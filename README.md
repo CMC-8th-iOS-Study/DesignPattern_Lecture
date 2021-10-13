@@ -50,7 +50,7 @@
     <tr>
       <td rowspan="2"><b>2주차</b></td>
       <td>Singleton Pattern</td>
-      <td>준비중</td>
+      <td><a href="https://github.com/CMC-8th-iOS-Study/DesignPattern_Lecture/blob/main/Week2/Singleton.md">이동✈</</td>
       <td align=center>아일린<br>에스<br>플로라</td>
       </tr>
     <tr>
