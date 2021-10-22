@@ -66,7 +66,7 @@
       </tr>
     <tr>
       <td>Command Pattern</td>
-      <td>준비중</td>
+      <td><a href="https://github.com/CMC-8th-iOS-Study/DesignPattern_Lecture/blob/main/Week3/Command%20Pattern.md">이동✈</td>
       <td align=center>아일린<br>아요쓰</td>
       </tr>
     </table>
