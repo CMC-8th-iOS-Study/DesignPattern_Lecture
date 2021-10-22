@@ -61,7 +61,7 @@
     <tr>
       <td rowspan="2"><b>3주차</b></td>
       <td>Strategy Pattern</td>
-      <td>준비중</td>
+      <td><a href="https://github.com/CMC-8th-iOS-Study/DesignPattern_Lecture/blob/main/Week3/Strategy.md">이동✈</td>
       <td align=center>무무<br>에스<br>플로라</td>
       </tr>
     <tr>
